@@ -1,0 +1,58 @@
+[
+  {
+    "CustomerID": "29485",
+    "AddressID": "1086",
+    "AddressType": "Main Office",
+    "rowguid": "16765338-dbe4-4421-b5e9-3836b9278e63",
+    "ModifiedDate": "2007-09-01T00:00:00.0000000"
+  },
+  {
+    "CustomerID": "29486",
+    "AddressID": "621",
+    "AddressType": "Main Office",
+    "rowguid": "22b3e910-14af-4ed5-8b4d-23bbe757414d",
+    "ModifiedDate": "2005-09-01T00:00:00.0000000"
+  },
+  {
+    "CustomerID": "29489",
+    "AddressID": "1069",
+    "AddressType": "Main Office",
+    "rowguid": "a095c88b-d7e6-4178-a078-2eca44214801",
+    "ModifiedDate": "2005-07-01T00:00:00.0000000"
+  },
+  {
+    "CustomerID": "29490",
+    "AddressID": "887",
+    "AddressType": "Main Office",
+    "rowguid": "f12e1702-d897-4035-b614-0fe2c72168a9",
+    "ModifiedDate": "2006-09-01T00:00:00.0000000"
+  },
+  {
+    "CustomerID": "29492",
+    "AddressID": "618",
+    "AddressType": "Main Office",
+    "rowguid": "5b3b3eb2-3f43-47ed-a20c-23697dabf23b",
+    "ModifiedDate": "2006-12-01T00:00:00.0000000"
+  },
+  {
+    "CustomerID": "29494",
+    "AddressID": "537",
+    "AddressType": "Main Office",
+    "rowguid": "492d92b6-31af-47ea-8e00-7c11c7ccc20d",
+    "ModifiedDate": "2005-09-01T00:00:00.0000000"
+  },
+  {
+    "CustomerID": "29496",
+    "AddressID": "1072",
+    "AddressType": "Main Office",
+    "rowguid": "0a66b0f3-24bc-4148-9661-26e935cec99a",
+    "ModifiedDate": "2007-09-01T00:00:00.0000000"
+  },
+  {
+    "CustomerID": "29497",
+    "AddressID": "889",
+    "AddressType": "Main Office",
+    "rowguid": "7e0b56fd-7324-4898-bedb-2f56a843bb0f",
+    "ModifiedDate": "2005-07-01T00:00:00.0000000"
+  }
+]

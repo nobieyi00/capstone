@@ -1,0 +1,90 @@
+[
+  {
+    "AddressID": "9",
+    "AddressLine1": "8713 Yosemite Ct.",
+    "AddressLine2": null,
+    "City": "Bothell",
+    "StateProvince": "Washington",
+    "CountryRegion": "United States",
+    "PostalCode": "98011",
+    "rowguid": "268af621-76d7-4c78-9441-144fd139821a",
+    "ModifiedDate": "2006-07-01T00:00:00.0000000"
+  },
+  {
+    "AddressID": "11",
+    "AddressLine1": "1318 Lasalle Street",
+    "AddressLine2": null,
+    "City": "Bothell",
+    "StateProvince": "Washington",
+    "CountryRegion": "United States",
+    "PostalCode": "98011",
+    "rowguid": "981b3303-aca2-49c7-9a96-fb670785b269",
+    "ModifiedDate": "2007-04-01T00:00:00.0000000"
+  },
+  {
+    "AddressID": "25",
+    "AddressLine1": "9178 Jumping St.",
+    "AddressLine2": null,
+    "City": "Dallas",
+    "StateProvince": "Texas",
+    "CountryRegion": "United States",
+    "PostalCode": "75201",
+    "rowguid": "c8df3bd9-48f0-4654-a8dd-14a67a84d3c6",
+    "ModifiedDate": "2006-09-01T00:00:00.0000000"
+  },
+  {
+    "AddressID": "28",
+    "AddressLine1": "9228 Via Del Sol",
+    "AddressLine2": null,
+    "City": "Phoenix",
+    "StateProvince": "Arizona",
+    "CountryRegion": "United States",
+    "PostalCode": "85004",
+    "rowguid": "12ae5ee1-fc3e-468b-9b92-3b970b169774",
+    "ModifiedDate": "2005-09-01T00:00:00.0000000"
+  },
+  {
+    "AddressID": "32",
+    "AddressLine1": "26910 Indela Road",
+    "AddressLine2": null,
+    "City": "Montreal",
+    "StateProvince": "Quebec",
+    "CountryRegion": "Canada",
+    "PostalCode": "H1Y 2H5",
+    "rowguid": "84a95f62-3ae8-4e7e-bbd5-5a6f00cd982d",
+    "ModifiedDate": "2006-08-01T00:00:00.0000000"
+  },
+  {
+    "AddressID": "185",
+    "AddressLine1": "2681 Eagle Peak",
+    "AddressLine2": null,
+    "City": "Bellevue",
+    "StateProvince": "Washington",
+    "CountryRegion": "United States",
+    "PostalCode": "98004",
+    "rowguid": "7bccf442-2268-46cc-8472-14c44c14e98c",
+    "ModifiedDate": "2006-09-01T00:00:00.0000000"
+  },
+  {
+    "AddressID": "297",
+    "AddressLine1": "7943 Walnut Ave",
+    "AddressLine2": null,
+    "City": "Renton",
+    "StateProvince": "Washington",
+    "CountryRegion": "United States",
+    "PostalCode": "98055",
+    "rowguid": "52410da4-2778-4b1d-a599-95746625ce6d",
+    "ModifiedDate": "2006-08-01T00:00:00.0000000"
+  },
+  {
+    "AddressID": "445",
+    "AddressLine1": "6388 Lake City Way",
+    "AddressLine2": null,
+    "City": "Burnaby",
+    "StateProvince": "British Columbia",
+    "CountryRegion": "Canada",
+    "PostalCode": "V5A 3A6",
+    "rowguid": "53572f25-9133-4a8b-a065-102ff35416ee",
+    "ModifiedDate": "2006-09-01T00:00:00.0000000"
+  }
+]

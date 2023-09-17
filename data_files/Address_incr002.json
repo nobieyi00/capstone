@@ -1,0 +1,15 @@
+[
+
+  {
+    "AddressID": "11",
+    "AddressLine1": "1318 Lasalle Street",
+    "AddressLine2": "APT 25",
+    "City": "Bothell",
+    "StateProvince": "Washington",
+    "CountryRegion": "United States",
+    "PostalCode": "98011",
+    "rowguid": "981b3303-aca2-49c7-9a96-fb670785b269",
+    "ModifiedDate": "2023-01-03T00:00:00.0000000",
+	"ActionType": "UPDATE"
+  }
+]
