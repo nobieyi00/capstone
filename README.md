@@ -14,12 +14,20 @@ Prerequisite  steps
 2.	Make sure you set up the write permissions and network settings so data factory can connect to the data lake and databricks.
 3.	In the Azure data lake gen 2 storage account create 3 containers – landing, refined and governance
 4.	In the landing container, create two directories – input and archive.
-5.	Upload the files attached to the input directory – it will represent 3 tables one is the Employee table, another is for the EmployeeAddress, then last is the Address table.
+5.	Upload the files attached to the input directory – it will represent 3 tables one is the Employee table, another is for the EmployeeAddress, then last is the Address table. They are in json format
 6.	Inside the input directory, we will have sub directory for the 3 tables. This is where the CDC tool will write the data for the respective tables both full and incremental load files
 7.	The config file with the tables name and primary key columns will be stored in the governance zone container
 8.	After processing write the data of each table into the refined zone container as a delta file format ( use databricks)
 9.	The entire pipeline needs to be one meta data driven pipeline, with one parameterized databricks notebook to process all tables…driven by the config file
 10.	Note that the incremental files can have duplicate records, so you need to ensure you only process the last transaction based on the primary key
+11.	The three tables you will have are
+a)	Customer – Pk = CustomerID
+b)	CustomerAddress--- PK –CustomerID,AddressID
+c)	Address – Pk – AddressID
+PK means Primary key
+12.	Create a configuration file with the 3 tables and primary keys column names so it can be used to control the pipeline
+Example of the final table output
 
  
+
 
