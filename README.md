@@ -28,6 +28,7 @@ PK means Primary key
 12.	Create a configuration file with the 3 tables and primary keys column names so it can be used to control the pipeline
 Example of the final table output
 
- 
+ ![image](https://github.com/user-attachments/assets/62c99fc8-c20b-4e75-bc5e-d42ba394c07e)
+
 
 
