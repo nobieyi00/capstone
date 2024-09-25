@@ -1,0 +1,11 @@
+[
+	{
+		"Tablename": "Customer"
+		"Primary_key": "CustomerID"
+	},
+	
+	{
+		"Tablename": "Address"
+		"Primary_key": "AddressID"
+	}
+]

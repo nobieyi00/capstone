@@ -1,0 +1,14 @@
+[
+  {
+    "TableName": "Customer",
+    "PrimaryKey": [CustomerID]
+  },
+  {
+    "TableName": "CustomerAddress",
+    "PrimaryKey": [CustomerID,AddressID]  
+  },
+  {
+    "TableName": "Address",
+    "PrimaryKey": [AddressID]  
+  }
+]
